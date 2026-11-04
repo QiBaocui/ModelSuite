@@ -1,0 +1,17 @@
+# Local datasets and generated analysis outputs
+data/private/
+data/example/
+outputs/
+config/local.R
+
+# Models, runtime state and workstation files
+*.rds
+*.RData
+*.rda
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+*.log
+.circle/
+.DS_Store
